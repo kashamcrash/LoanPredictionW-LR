@@ -1,5 +1,5 @@
 # LoanPredictionW-LR
-Load Predition with Linear Regression for a Mortgage Bank
+Loan Predition with Linear Regression for a Mortgage Bank
 
 * A banking institution requires actionable insights from the perspective of Mortgage-Backed Securities, Geographic Business Investment and Real Estate Analysis for USA.
 * The bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of the real estate.
