@@ -2,9 +2,9 @@
 
 
 ## Business Scenario
-* A banking institution requires actionable insights from the perspective of Mortgage-Backed Securities, Geographic Business Investment and Real Estate Analysis for USA.
-* The bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of the real estate.
-* Create a model to predict the potential demand in dollars amount of loan for each of the region in the USA with Linear Regression.
+- A banking institution requires actionable insights from the perspective of Mortgage-Backed Securities, Geographic Business Investment and Real Estate Analysis for USA.
+- The bank would like to identify potential monthly mortgage expenses for each region based on monthly family income and rental of the real estate.
+- Create a model to predict the potential demand in dollars amount of loan for each of the region in the USA with Linear Regression.
 
 ### What is the Dataset about? 
 
