@@ -8,15 +8,15 @@
 
 ### What is the Dataset about? 
 
-* Second Mortgage: Households with a second mortgage statistics
-* Home Equity Loan: Households with a Home equity Loan statistics
-* Debt: Households with any type of debt statistics
-* Mortgage Costs: Statistics regarding mortgage payments, home equity loans, utilities and property taxes
-* Home Owner Costs: Sum of utilities, property taxes statistics
-* Gross Rent: Contract rent plus the estimated average monthly cost of utility features
-* Gross Rent as Percent of Income Gross rent as the percent of income very interesting
-* High school Graduation: High school graduation statistics
-* Population Demographics: Population demographic statistics
-* Age Demographics: Age demographic statistics
-* Household Income: Total income of people residing in the household
-* Family Income: Total income of people related to the householder
+1. Second Mortgage: Households with a second mortgage statistics
+2. Home Equity Loan: Households with a Home equity Loan statistics
+3. Debt: Households with any type of debt statistics
+4. Mortgage Costs: Statistics regarding mortgage payments, home equity loans, utilities and property taxes
+5. Home Owner Costs: Sum of utilities, property taxes statistics
+6. Gross Rent: Contract rent plus the estimated average monthly cost of utility features
+7. Gross Rent as Percent of Income Gross rent as the percent of income very interesting
+8. High school Graduation: High school graduation statistics
+9. Population Demographics: Population demographic statistics
+10. Age Demographics: Age demographic statistics
+11. Household Income: Total income of people residing in the household
+12. Family Income: Total income of people related to the householder
